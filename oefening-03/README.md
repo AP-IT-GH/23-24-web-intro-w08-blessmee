@@ -24,6 +24,12 @@
  - Schrijf de response op die je ontvangt. Let daarbij specifiek op de waarde van "state".
 
 *Schrijf hier je response op.*
+{
+    "firstname": "Serge",
+    "lastname": "Hanssens",
+    "email": "serge.hanssens@ap.be",
+    "state": true
+}
 
 ### POST-request
 
