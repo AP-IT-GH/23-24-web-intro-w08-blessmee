@@ -19,4 +19,5 @@ Tijdens dit labo leer je
 1. Maak een nieuw verzoek naar de API.
 2. Gebruik de endpoint /top-headlines.
 3. Voeg een X-Api-Key header toe met je API-sleutel.
-4. Voer het verzoek uit en bekijk de respons.
+4. Voer het verzoek uit en bekijk de respons. => moet nog een extra parameter hebben om te werken.
+![alt text](image.png)

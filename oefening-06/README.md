@@ -20,3 +20,6 @@ Tijdens dit labo leer je
 2. Gebruik de endpoint /users.
 3. Voeg een Authorization header toe met een Bearer Token.
 4. Voer het verzoek uit en bekijk de lijst met gebruikers.
+geen lijst van gebruikers omdat de cache leeg is. https://auth0.com/docs/api/management/v2/users gaf enkel een error 404 page
+
+![alt text](image.png)
